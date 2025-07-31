@@ -1,5 +1,5 @@
 # 💫 About Me:
-Web developer who love pure html-css-js and php web development.<br>Currently learning TailwindCSS
+A school operator that love web development.
 
 
 ## 🌐 Socials:
